@@ -23,20 +23,20 @@ public class pessoaListagem extends javax.swing.JFrame {
         Pessoa p = new Pessoa();
 
         p.setCod(1);
-        p.setNome("Maicon");
+        p.setNome("Theus");
         p.setSexo("Masculino");
 
         lista.add(p);
 
         p = new Pessoa();
         p.setCod(2);
-        p.setNome("Marina");
-        p.setSexo("Feminino");
+        p.setNome("Theus Theus");
+        p.setSexo("Masculino");
         
         lista.add(p);
         p = new Pessoa();
         p.setCod(3);
-        p.setNome("Siedler");
+        p.setNome("Theus Theus Theus");
         p.setSexo("Masculino");
      
 
